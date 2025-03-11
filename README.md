@@ -1,5 +1,5 @@
-<h1 align="center"> Hi I'm Agustin Pérez, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h1>
-<br><br>
+<h1 align="center"> Hi I'm Agustin, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h1>
+<br>
 <h2>💫 About Me:</h2>
 <p>🚀 Journeying Through: Currently diving deep into the Coderhouse's Bootcamp.</p>
 <p>🌐 Team Ups: Open to collaboration! Frontend or Backend? It doesn't matter, I can do both.</p>
